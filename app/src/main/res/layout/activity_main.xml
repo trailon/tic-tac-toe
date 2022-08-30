@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/veli1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="210dp"></Button>
+
+    <Button
+        android:id="@+id/veli2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="210dp"></Button>
+
+    <Button
+        android:id="@+id/veli3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="307dp"
+        tools:layout_editor_absoluteY="210dp"></Button>
+
+    <Button
+        android:id="@+id/mertcan1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="137dp"></Button>
+
+    <Button
+        android:id="@+id/beyza1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="64dp"></Button>
+
+    <Button
+        android:id="@+id/mertcan2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="137dp"></Button>
+
+    <Button
+        android:id="@+id/mertcan3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="307dp"
+        tools:layout_editor_absoluteY="137dp"></Button>
+
+    <Button
+        android:id="@+id/beyza2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="64dp"></Button>
+
+    <Button
+        android:id="@+id/beyza3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="307dp"
+        tools:layout_editor_absoluteY="64dp"></Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
